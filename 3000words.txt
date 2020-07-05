@@ -1,7 +1,1044 @@
-ABBEY NOUN
+ABBEY   noun
 
-def: a large church together with a group of buildings in which 
-ex: a sixteenth-century abbeySee abbey in the Oxford Advanced Learner's DictionaryCheck pronunciation: abbey
+def: a large church together with a group of buildings in which monks or nuns live or lived in the past
 
------
+Westminster Abbey
+a ruined abbey
+
+---------------
+
+ANNIVERSARY   noun
+
+def: a date that is an exact number of years after the date of an important or special event
+
+on the anniversary of his wifes death
+to celebrate your wedding anniversary
+the theatres 25th anniversary celebrations
+The company is celebrating its 100-year anniversary this year. 
+Public events will be held to commemorate the anniversary of the end of the Second World War.
+They held celebrations to mark the anniversary of Mozart's death.
+a yearlong celebration of the 25th anniversary of his company 
+The context was the occasion of the 450th anniversary of his birth.
+
+---------------
+
+BELIEF   noun
+
+def: a strong feeling that something/somebody exists or is true; confidence that something/somebody is good or right
+
+ belief in something/somebody I admire his passionate belief in what he is doing.
+belief in God/democracy
+The incident has shaken my belief (= made me have less confidence) in the police.
+ belief that They share a belief that there is life after death.
+
+def: an opinion about something; something that you think is true
+
+ belief that There is a general belief that things will soon get better.
+There is a widespread belief that multinationals have too much power.
+a widely/commonly held belief
+ in the belief that She acted in the belief that she was doing good.
+I took the job in the mistaken belief that I would be able to stay in London.
+Contrary to popular belief (= in spite of what people may think), he was not responsible for the tragedy.
+
+def: something that you believe, especially as part of your religion
+
+religious/political beliefs
+A society should be judged on its beliefs and values.
+ belief about something Some people hold beliefs about the world that are not supported by science.
+
+---------------
+
+BELIEVER   noun
+
+def: a person who believes in the existence or truth of something, especially somebody who believes in a god or religious faith 
+
+---------------
+
+BONFIRE   noun
+
+def: a large outdoor fire for burning waste or as part of a celebration
+
+There will be a bonfire and a firework display.
+Tell the neighbours before you light the bonfire in case they're in the garden.
+
+---------------
+
+BURY   verb
+
+def: to place a dead body in the ground
+
+ bury somebody/something They killed her and buried her body.
+ bury somebody/something + adv./prep. He was buried in Highgate Cemetery.
+ (figurative) Their ambitions were finally dead and buried.
+
+def: to lose somebody by death
+
+She's 85 and has buried three husbands.
+
+def: to hide something in the ground
+
+ bury something We used to dig for hours, looking for buried treasure.
+They plan to bury a time capsule containing work from every child in the school.
+ bury something + adv./prep. The dog had buried its bone in the garden.
+The waste is buried deep underground.
+
+def: to cover somebody/something with soil, rocks, leaves, etc.
+
+ bury somebody/something A landslide buried about 25 people yesterday.
+ bury somebody/something + adv./prep. The house was buried under ten feet of snow.
+Another vehicle was found buried under rubble.
+ bury somebody/something + adj. The miners were buried alive when the tunnel collapsed.
+
+def: to cover something so that it cannot be seen
+
+Your letter got buried under a pile of papers.
+He buried his face in his hands and wept.
+
+def: to ignore or hide a feeling, a mistake, etc.
+
+She had learnt to bury her feelings.
+
+def: to put something deeply into something else
+
+He walked slowly, his hands buried in his pockets.
+She always has her head buried in a book.
+
+---------------
+
+CARNIVAL   noun
+
+def: a public festival, usually one that happens at a regular time each year, that involves music and dancing in the streets, for which people wear brightly coloured clothes
+
+There is a local carnival every year.
+the carnival in Rio
+a carnival atmosphere
+
+def: a type of entertainment in a field or park at which people can ride on large machines and play games to win prizes                                     
+
+def: an outdoor public event or celebration involving entertainment, games, food and drink, etc., often organized by a town or village
+
+The children are getting ready for the village carnival.
+Live music, sports demonstrations and a spectacular parade are all planned for this year's Woodley Carnival.
+
+def: an exciting or brightly coloured mixture of things
+
+this summers carnival of sport
+
+---------------
+
+CATHEDRAL   noun
+
+def: the main church of a district, under the care of a bishop (= a priest of high rank)
+
+St Pauls Cathedral
+ (British English) a cathedral city
+
+---------------
+
+CELEBRATION   noun
+
+def: a special event that people organize in order to celebrate something
+
+The occasion was the 40th anniversary celebrations of the orchestra
+birthday celebrations
+wedding/victory celebrations
+I hope you'll join in the Christmas celebrations.
+They held a celebration to mark forty years of the lifeboat service.
+As part of the celebrations, the school is planning an open day for the public.
+They were among the crowd that attended the celebration.
+ at a celebration The winners will be honoured at a celebration in Boston next week.
+
+def: the act of celebrating something
+
+Her triumph was a cause for celebration.
+ celebration of something The service was a celebration of his life (= praised what he had done in his life).
+The city's annual celebration of Caribbean culture kicks off on June 4.
+ in celebration of something a party in celebration of their fiftieth wedding anniversary
+a day of celebration and national unity
+
+---------------
+
+CEREMONY   noun
+
+def: a public or religious occasion that includes a series of formal or traditional actions
+
+More than 1000 people attended the ceremony.
+an awards/opening ceremony
+a wedding/marriage/graduation ceremony
+a religious/civil ceremony 
+The priest had travelled from Australia to perform the ceremony.
+ at a ceremony She was last seen in public at the closing ceremony of the Commonwealth Games
+Who officiated at the ceremony?
+ in a ceremony They were married in a simple ceremony.
+ ceremony for somebody/something The villagers held a memorial ceremony for those who lost their lives in the war.
+ ceremony to do something There will be a special ceremony to mark the 60th anniversary of the battle.
+
+def: formal behaviour; traditional actions and words used on particular formal occasions
+
+The royal guests were welcomed with pomp and ceremony.
+
+---------------
+
+CHRISTIAN   noun
+
+def: a person who believes in the teachings of Jesus Christ or has been baptized in a Christian church
+
+Only 10% of the population are now practising Christians.
+He became a born-again Christian at 40 and turned his back on his misspent youth.
+
+def: the main character in The Pilgrim's Progress by John Bunyan      
+
+---------------
+
+CHRISTIANITY   noun
+
+def: the religion that is based on the teachings of Jesus Christ and the belief that he was the son of God
+
+Christianity spread rapidly in the first century.
+
+---------------
+
+CIVIL   adjective
+
+def: connected with the people who live in a country
+
+civil unrest (= that is caused by groups of people within a country)
+civil strife/conflict
+There were concerns that the economic reforms might lead to civil unrest.
+
+def: connected with the state rather than with religion or with the armed forces
+
+the recognition of civil unions for same-sex couples
+They were married in a civil ceremony.
+civil aviation
+We have called in the army to assist the civil authorities in rescue operations.
+
+def: involving personal legal matters and not criminal law
+
+a civil court
+
+def: polite in a formal way but possibly not friendly
+
+The less time I have to spend being civil to him the better!
+
+---------------
+
+CONVERT   verb
+
+def: to change or make something change from one form, purpose, system, etc. to another
+
+ convert something They took just nine months to convert the building.
+You need to ensure that you've converted the data properly.
+The pub is a converted warehouse.
+ convert something into something The hotel is going to be converted into a nursing home.
+What rate will I get if I convert my dollars into euros?
+ convert something to something The system is eco-friendly because the waste heat is converted to electricity.
+ convert from something Japan was at the time still converting from an agricultural economy.
+ convert into/to something A lot of conventional farmers have converted to organic production.
+ convert from something to something We've converted from oil to gas central heating.
+
+def: to be able to be changed from one form, purpose, or system to another
+
+a sofa that converts into a bed
+In fruits, starch converts into sugar.
+
+def: to change your religion or beliefs; to make somebody change their religion or beliefs
+
+ convert from something He converted from Catholicism 20 years ago.
+ convert to something She converted to Judaism to marry him.
+ convert from something to something He converted from Christianity to Islam.
+ convert somebody from something Evangelical Christian groups were trying to convert Africans from indigenous religions.
+ convert somebody to something She was soon converted to the socialist cause.
+ convert somebody from something to something Mongolia was converted from shamanism to Buddhism in the late 16th century.
+
+def: to change an opinion, a habit, etc.
+
+ convert (from something) to something I've converted to organic food.
+ convert somebody (from something) (to something) I didn't use to like opera but my husband has converted me.
+
+def: to score extra points after a try or a touchdown
+
+---------------
+
+CUSTOM   noun
+
+def: an accepted way of behaving or of doing things in a society or a community
+
+It's a local custom.
+an ancient custom
+a burial/marriage custom
+a tribal custom
+She grew up with Chinese customs and traditions.
+ according to custom According to custom, one son inherited all the family property.
+ custom of doing something Widows observed the custom of wearing black 
+it is the custom for somebody to do something It is the custom in that country for women to marry young.
+
+def: the way a person always behaves 
+
+It was her custom to rise early.
+As was his custom, he knocked three times.
+
+def: the fact of a person or people buying goods or services at a shop or business
+
+Thank you for your custom. Please call again.
+We've lost a lot of custom since prices went up.
+
+---------------
+
+DECORATION   noun
+
+def: a thing that makes something look more attractive on special occasions
+
+Christmas/festive decorations
+Halloween decorations hung from every corner.
+cake/table decorations 
+We made our own decorations.
+Floral decorations adorned the church.
+The decorations were taken down and put away for another year.
+
+def: a pattern, etc. that is added to something and that stops it from being plain
+
+the elaborate decoration on the carved wooden door
+Decoration is applied to the plates before the final firing.
+Ornate decorations embellish the statues.
+ for decoration Rings are worn both for decoration and also as signs of status. 
+
+def: the style in which something is decorated
+
+An Oscar was given for the art direction and set decoration.
+
+def: the act or process of decorating something such as the inside of a house by painting it, etc.
+
+def: an award or medal that is given to somebody as an honour
+
+His jacket was heavy with military decorations.
+ decoration for something the country's highest decoration for bravery
+a decoration for valour/gallantry
+
+---------------
+
+EASTER   noun
+
+def: (in the Christian religion) a Sunday in March or April when Christians remember the death of Christ and his return to life
+
+Many people attend an Easter service at their local church.
+
+def: the period that includes Easter Day and the days close to it
+
+the Easter holidays/vacation
+
+---------------
+
+EASTER EGG   noun
+
+def: chocolate in the shape of an egg that is given as a present and eaten at Easter
+
+def: an egg with a shell that is painted and decorated at Easter                                     
+
+def: a hidden message or feature in a video game, film, comic book, etc. that is not necessary or related to the main content, but adds to the entertainment 
+
+Several Easter eggs are hidden on level two of the game.
+
+---------------
+
+EVIL   adjective
+
+def: enjoying harming others; morally bad and cruel
+
+Police described the killer as a desperate and evil man.
+an evil genius/dictator
+President Reagan referred to the Soviet Union as the evil empire.
+an evil grin
+Her face was full of evil intent.
+
+def: having a harmful effect on people; morally bad
+
+evil deeds
+In his speech he described the evil effects of racism.
+
+def: connected with the devil and with what is bad in the world
+
+It was an ancient charm to ward off evil spirits.
+She had been deceived by an evil demon.
+
+def: extremely unpleasant
+
+The rubbish bin was giving off an evil smell.
+
+---------------
+
+FAITH   noun
+
+def: trust in somebodys ability or knowledge; trust that somebody/something will do what has been promised
+
+If the company can retain its customers' faith, it could become the market leader.
+ faith in somebody/something I have faith in youI know you'll do well.
+We've lost faith in the government's promises.
+Her friend's kindness has restored her faith in human nature.
+I wouldn't put too much faith in what she says.
+He has blind faith (= unreasonable trust) in doctors' ability to find a cure.
+
+def: strong religious belief
+
+to have faith
+to lose your faith
+Faith is stronger than reason.
+a woman of strong religious faith
+ faith in somebody/something He started questioning his faith in God.
+
+def: a particular religion
+
+the Christian/Catholic/Islamic/Muslim/Jewish faith 
+The children are learning to understand people of different faiths.
+people of all faiths and none
+
+def: the intention to do something right/wrong
+
+They handed over the weapons as a gesture of good faith.
+The judge did not find any bad faith on the part of the defendants.
+
+---------------
+
+FANCY DRESS   noun
+
+def: clothes that you wear, especially at parties, to make you appear to be a different character
+
+guests in fancy dress
+I went to a fancy-dress party as a pirate.
+
+---------------
+
+FIREWORK   noun
+
+def: a small device containing powder that burns or explodes and produces bright coloured lights and loud noises, used especially at celebrations
+
+ (British English) to let off a few fireworks
+ (North American English) to set off a few fireworks
+a firework(s) display
+The firework spluttered and went out.
+They set off fireworks in their back garden.
+
+def: a display of fireworks
+
+When do the fireworks start?
+Thousands of people jammed into Peoples Square to watch the fireworks.
+
+def: strong or angry words; exciting actions
+
+There'll be fireworks when he finds out!
+
+---------------
+
+HALLOWEEN   noun
+
+def: the night of 31st October when it was believed in the past that dead people appeared from their graves, and which is now celebrated in the US, Canada and the UK by children who dress as ghosts, witches, etc. 
+
+---------------
+
+HEAVEN   noun
+
+def: the place believed to be the home of God where good people go when they die, sometimes imagined to be in the sky
+
+the kingdom of heaven
+I feel like I've died and gone to heaven.
+ in heaven I told her Daddy was in heaven with God.
+Our child seemed a gift from heaven.
+
+def: a place or situation in which you are very happy
+
+This isn't exactly my idea of heaven!
+ in heaven Shopping is my favourite pastime, so I was in heaven.
+ it is heaven doing something It was heaven being away from the office for a week.
+The island is truly a heaven on earth.
+ heaven for somebody Tasmania is heaven for hikers and campers.
+
+def: the sky
+
+Four tall trees stretched up to the heavens.
+
+---------------
+
+HELL   noun
+
+def: the place believed to be the home of devils and where bad people go after death
+
+He was terrified of going to hell when he died.
+ in hell They were threatened with spending eternity in hell.
+
+def: a very unpleasant experience or situation in which people suffer very much
+
+The last three months have been hell.
+He went through hell during the trial.
+Her parents made her life hell.
+Being totally alone is my idea of hell on earth.
+He was in a hell of his own making.
+ in hell For the last few weeks my whole family has been in hell because of this.
+ hell for somebody Since she moved in, life has been hell for the other residents.
+ it is hell doing something It was hell getting through airport security.
+
+def: a swear word that some people use when they are annoyed or surprised or to emphasize something. Its use is offensive to some people.
+
+Oh hell, I've burned the pan.
+What the hell do you think you are doing?
+Go to hell!
+I can't really afford it, but, what the hell (= it doesn't matter), I'll get it anyway.
+He's as guilty as hell.
+ (North American English) Do you understand? Hell, no. I don't.
+
+---------------
+
+HOLY   adjective
+
+def: connected with God or a particular religion
+
+the Holy Bible
+holy books/scriptures
+the holy city of Mecca
+Islams holiest shrine
+a holy day/month
+a holy war (= one fought to defend the beliefs of a particular religion)
+holy ground
+
+def: good in a moral and religious way
+
+a holy life/man
+
+def: used to emphasize that you are surprised, afraid, etc.
+
+Holy cow! What was that?
+
+---------------
+
+MARRIAGE   noun
+
+def: the legal relationship between two people who are married to each other
+
+a happy/an unhappy marriage
+All of her children's marriages ended in divorce.
+She has two children by a previous marriage.
+This is his second marriage.
+Same-sex marriages are now recognized in many countries.
+
+def: the state of being married
+
+They don't believe in marriage.
+My parents are celebrating 30 years of marriage.
+Public support for gay marriage has risen.
+ before/outside marriage They strongly disapprove of sex outside marriage.
+
+def: the ceremony in which two people marry each other
+
+Their marriage took place in a local church.
+
+def: a combination of two things
+
+ marriage of A and B The new collection is a marriage of fashion and technology.
+ marriage between A and B the marriage between a young team and an experienced coach
+
+---------------
+
+MINISTER   noun
+
+def: a senior member of the government who is in charge of a government department or a branch of one
+
+the Minister of Education
+She became minister of education in 2016.
+A new minister of defence had been appointed.
+a meeting of EU Foreign Ministers
+senior ministers in the Cabinet
+cabinet/government ministers
+the finance/defence/interior/justice minister
+The health minister announced 10 billion in extra funding.
+
+def: a trained religious leader
+
+a Methodist minister
+He was ordained minister of a small rural congregation.
+
+def: a person, lower in rank than an ambassador, whose job is to represent their government in a foreign country      
+
+---------------
+
+MOSQUE   noun
+
+def: a building where Muslims go to worship (= praise God)
+
+We were woken by the call to prayer from a nearby mosque.
+
+---------------
+
+MUSLIM   adjective
+
+def: believing in and practising Islam; connected with the religion of Islam
+
+a Muslim family
+a Muslim name
+
+---------------
+
+MUSLIM   noun
+
+def: a person whose religion is Islam 
+
+---------------
+
+PARADE   noun
+
+def: a public celebration of a special day or event, usually with bands in the streets and decorated vehicles 
+
+the Lord Mayors parade
+St Patricks Day parade in New York
+
+def: a formal occasion when soldiers march or stand in lines so that they can be inspected (= looked at and approved) by their officers or other important people
+
+a military parade
+They held a parade to mark the soldiers' return.
+ on parade They stood as straight as soldiers on parade.
+ (figurative) The latest software will be on parade at the exhibition.
+
+def: a series of things or people
+
+Each generation passes through a similar parade of events.
+
+def: a street with a row of small shops
+
+a shopping parade
+
+def: an obvious display of something, particularly in order to impress other people
+
+Social media is a constant parade of wealth, happiness, success and vanity.
+
+---------------
+
+PRAY   verb
+
+def: to speak to God, especially to give thanks or ask for help
+
+They knelt down and prayed.
+ pray for somebody/something I'll pray for you.
+to pray for peace
+ pray to somebody for somebody/something She prayed to God for an end to her sufferings.
+ pray to somebody I prayed to the Lord and hoped for the best.
+ pray (that) We prayed (that) she would recover from her illness.
+ pray to do something He prayed to be forgiven.
+ + speech Please God don't let it happen, she prayed.
+
+def: to hope very much that something will happen
+
+ pray for something We're praying for good weather on Saturday.
+ pray (that) I prayed that nobody would notice my mistake.
+She hoped and prayed that Jessie would be back the next day. 
+
+---------------
+
+PRAYER   noun
+
+def: words that you say to God giving thanks or asking for help
+
+to say your prayers
+ prayer for somebody/something prayers for the sick
+We offer our prayers for all those who have died in war.
+He arrived at that very moment, as if in answer to her prayer.
+Their prayers were answered and the child was found safe and well.
+ prayer to somebody/something She stopped saying nightly prayers to God. 
+
+def: a fixed form of words that you can say when you speak to God
+
+It was a prayer she had learnt as a child.
+
+def: the act or habit of praying
+
+ in prayer They knelt in prayer.
+We believe in the power of prayer.
+They held a prayer vigil throughout the night.
+spiritual healing through prayer 
+a national day of prayer
+
+def: a religious meeting that takes place regularly in which people say prayers
+
+Muslims attend Friday prayers at the mosque.
+Students are required to attend prayers twice a week.
+We had family prayers before breakfast.
+
+def: a thing that you hope for very much
+
+My prayer is that one day he will walk again.
+
+---------------
+
+PRIEST   noun
+
+def: a person who is qualified to perform religious duties and ceremonies in the Roman Catholic, Anglican and Orthodox Churches
+
+a parish priest
+the ordination of women priests
+The candles had been blessed by a priest.
+the priest who was celebrating Mass
+Only one or two new priests were ordained each year. 
+
+def: a person who performs religious ceremonies in some religions that are not Christian
+
+a Hindu/Buddhist priest
+
+---------------
+
+RELIGION   noun
+
+def: the belief in the existence of a god or gods, and the activities that are connected with the worship of them, or in the teachings of a spiritual leader
+
+Is there always a conflict between science and religion?
+He believed in God but had no interest in organized religion.
+ by religion They are Jewish by religion.
+
+def: one of the systems of faith that are based on the belief in the existence of a particular god or gods, or in the teachings of a spiritual leader
+
+the Jewish religion
+Christianity, Islam and other world religions
+The law states that everyone has the right to practise their own religion.
+
+def: a particular interest or influence that is very important in your life
+
+For him, football is an absolute religion.
+Football has become an alternative religion for many people.
+
+---------------
+
+RELIGIOUS   adjective
+
+def: connected with religion or with a particular religion
+
+religious beliefs/convictions/faith
+religious freedom/liberty
+religious traditions/practices/ceremonies
+religious institutions/organizations
+religious education (= education about religion)
+religious instruction (= instruction in a particular religion)
+a religious order (= group of people living in a religious community)
+a religious minority/community
+The situation for many ethnic and religious minorities remains dangerous.
+religious groups/leaders
+religious conservatives
+In 2000, the Greek government eliminated religious affiliation from citizens' identity cards.
+objects which have a religious significance
+a religious house (= a monastery or convent)
+
+def: believing strongly in a particular religion and obeying its laws and practices 
+
+His wife is very religious.
+a deeply religious man
+Although I'm not particularly religious, I whispered a few words of prayer.
+His mother noticed that he had become more religious.
+
+---------------
+
+SERVICE   noun
+
+def: a system that provides something that the public needs, organized by the government or a private company
+
+the ambulance/bus/postal service
+The government aims to improve public services, especially education.
+Essential services (= the supply of water, gas, electricity) will be maintained.
+Councillors have called for better provision of services for young people. 
+The charity provides a vital service to the local community.
+
+def: an organization or a company that provides something for the public or does something for the government
+
+the prison service
+the BBC World Service
+the Foreign Service
+
+def: a business whose work involves doing something for customers but not producing goods; the work that such a business does
+
+financial services
+the development of new goods and services
+Smith's Catering Services (= a company) offers the best value.
+We guarantee (an) excellent service.
+We aim to provide a high-quality service.
+They offer an after-care service.
+Training the staff required to deliver the service remains a challenge.
+We are working hard to improve the services that we provide. 
+The number of people using the service has fallen.
+I am not willing to pay for a service I am not receiving.
+We offer clients a broad range of services.
+the service sector (= the part of the economy involved in this type of business)
+a service industry
+
+def: the serving of customers in hotels, restaurants, and shops
+
+The food was good but the service was very slow.
+I complained about the poor service.
+10% will be added to your bill for service.
+
+def: the work that somebody does for an organization, etc., especially when it continues for a long time or is admired very much
+
+ service with something She has just celebrated 25 years' service with the company.
+ service to something He has retired after 30 years of dedicated service to the local community.
+She was presented with a long-service award after 40 years with the firm.
+The employees have good conditions of service.
+After retiring, she became involved in voluntary service in the local community.
+
+def: the army, the navy and the air force; the work done by people in them
+
+Most of the boys went straight into the services.
+He saw service in North Africa.
+After service in the US Army, he began his legal career.
+the country's military intelligence services
+a service family
+
+def: the use that you can get from a vehicle or machine; the state of being used
+
+That computer gave us very good service.
+ in service This bus is not in service.
+ out of service The ship will be taken out of service within two years.
+
+def: an examination of a vehicle or machine followed by any work that is necessary to keep it operating well
+
+a service engineer
+ (British English) I had taken the car in for a service.
+ (North American English) I had taken the car in for service.
+
+def: the particular skills or help that a person is able to offer
+
+You need the services of a good lawyer.
+ service as somebody/something He offered his services as a driver.
+
+def: a religious ceremony
+
+a funeral/memorial service
+A memorial service will be held at St James's Church on Sunday.
+More than 100 people attended the service.
+to go to morning/evening service
+
+def: a bus, train, etc. that goes regularly to a particular place at a particular time
+
+the cancellation of the 10.15 service to Glasgow
+
+def: a place next to a motorway where you can stop for petrol, a meal, the toilets, etc.
+
+motorway services
+It's five miles to the next services.
+
+def: an act of hitting the ball in order to start playing; the way that you hit it 
+
+It's your service (= your turn to start playing).
+Her service has improved.
+
+def: a complete set of plates, dishes, etc. that match each other
+
+a tea service (= cups, saucers, a teapot and plates, for serving tea)
+
+def: the state or position of being a servant
+
+to be in/go into service (= to be/become a servant)
+a job in domestic service
+
+def: the formal giving of an official document, etc. to somebody
+
+the service of a demand for payment
+
+---------------
+
+SOUL   noun
+
+def: the spiritual part of a person, believed to exist after death
+
+He believed his immortal soul was in peril.
+The howling wind sounded like the wailing of lost souls (= the spirits of dead people who are not in heaven).
+'Repent now if you want to save your soul,' he cried.
+ soul of somebody a prayer for the soul of the deceased
+They believe that ghosts are the wandering souls of the departed.
+
+def: a persons inner character, containing their true thoughts and feelings
+
+music that soothes your soul 
+The eyes are the windows to the soul. 
+in somebody's soul There was a feeling of restlessness deep in her soul.
+
+def: the spiritual and moral qualities of humans in general 
+
+the dark side of the human soul
+In my view, fine art feeds the mind and soul.
+
+def: strong and good human feeling, especially that gives a work of art its quality or enables somebody to recognize and enjoy that quality
+
+It was a very polished performance, but it lacked soul.
+
+def: a perfect example of a good quality
+
+He is the soul of discretion.
+
+def: a person of a particular type
+
+She's lost all her money, poor soul.
+You're a brave soul.
+
+def: a person
+
+There wasn't a soul in sight (= nobody was in sight).
+Don't tell a soul (= do not tell anyone).
+ (literary) a village of 300 souls (= with 300 people living there)
+
+def: a type of music that expresses strong emotions, made popular by African American musicians
+
+a soul singer
+
+---------------
+
+SPIRIT   noun
+
+def: the part of a person that includes their mind, feelings and character rather than their body
+
+You are underestimating the power of the human spirit to overcome difficulties.
+Yoga is meant to unite the body, mind and spirit.
+
+def: a persons feelings or state of mind
+
+to be in high/low spirits
+They were all in good spirits as they set out.
+You must try and keep your spirits up (= stay cheerful).
+a song that never fails to lift my spirits
+My spirits sank at the prospect of starting all over again.
+
+def: a person of the type mentioned
+
+a brave spirit
+kindred spirits (= people who like the same things as you)
+
+def: courage, energy or determination
+
+Peter had a good game and showed his true spirit.
+They took away his freedom and broke his spirit.
+ with spirit Although the team lost, they played with tremendous spirit.
+
+def: feelings of support towards a group, team or society
+
+There's not much community spirit around here.
+ spirit of something Officials have praised the cooperative spirit of the joint task force.
+
+def: the typical or most important quality or mood of something
+
+ spirit of something The exhibition captures the spirit of the age/times.
+
+def: a state of mind or mood; an attitude
+
+We approached the situation in the wrong spirit.
+OK, I'll try. That's the spirit (= the right attitude).
+The party went well because everyone entered into the spirit of things.
+I'm trying to get into the spirit of the holiday season.
+
+def: the real or intended meaning or purpose of something
+
+Obey the spirit, not the letter (= the narrow meaning of the words) of the law.
+
+def: the soul thought of as separate from the body and believed to live on after death; a ghost
+
+He is dead, but his spirit lives on.
+It was believed that people could be possessed by evil spirits.
+a message from the spirit world
+
+def: an imaginary creature with magic powers, for example, a fairy or an elf       alcohol [countable, usually plural] (especially British English) 
+
+def: a strong alcoholic drink
+
+I don't drink whisky or brandy or any other spirits.
+
+def: a special type of alcohol used in industry or medicine 
+
+---------------
+
+SPIRITUAL   adjective
+
+def: connected with the human spirit, rather than the body or physical things
+
+a spiritual experience
+spiritual development
+His music leads us on a spiritual journey.
+the human capacity for spiritual growth 
+a lack of spiritual values in the modern world
+We're concerned about your spiritual welfare.
+I consider myself to have deep moral and spiritual values. 
+
+def: connected with religion
+
+a spiritual leader
+Father Joubert was their spiritual adviser.
+Buddhist spiritual practice 
+For Martin Luther, this is the essence of the spiritual life.
+
+---------------
+
+TEMPLE   noun
+
+def: a building used for the worship of a god or gods, especially in religions other than Christianity
+
+the Temple of Diana at Ephesus
+a Buddhist/Hindu/Sikh temple
+ (North American English) to go to temple (= to a service in a synagogue, where Jews worship)
+
+def: each of the flat parts at the sides of the head, at the same level as the eyes and higher
+
+He had black hair, greying at the temples.
+There was a throbbing in her temples.
+
+---------------
+
+THANKSGIVING   noun
+
+def: a public holiday in the US (on the fourth Thursday in November) and in Canada (on the second Monday in October), originally to give thanks to God for the harvest and for health
+
+We always eat turkey on Thanksgiving.
+Are you going home for Thanksgiving?
+
+def: the expression of thanks to God      
+
+---------------
+
+VISION   noun
+
+def: the ability to see; the area that you can see from a particular position
+
+to have good/perfect/poor/blurred/normal vision
+Cats have good night vision.
+Her vision was still blurry.
+The disease causes a gradual loss of peripheral vision.
+He glimpsed something on the edge of his vision.
+
+def: sight the area or distance that you can see from a particular position:
+
+He looked up the street, but there was no one in sight.
+Leave any valuables in your car out of sight.
+
+def: an idea or a picture in your imagination
+
+Our job is to guide a client and develop a strategic vision.
+ vision of somebody/something He had a vision of a world in which there would be no wars.
+The word conjures up visions of home and family.
+The film's vision of the future is bleak.
+ vision of doing something He harboured visions of becoming party leader some day.
+ vision of somebody/something doing something I had visions of us getting hopelessly lost.
+ vision for somebody/something These two men share a similar vision for the country.
+He had a very specific vision for the future.
+
+def: a dream or similar experience, especially of a religious kind
+
+ in a vision The idea came to her in a vision.
+He had visions regularly.
+ vision of somebody/something She claimed she saw a vision of the Virgin Mary.
+
+def: the ability to think about or plan the future with great imagination and intelligence 
+
+She had vision and determination.
+a leader of vision
+He's a competent politician, but he lacks vision.
+
+def: a person of great beauty or who shows the quality mentioned
+
+She was a vision in white lace.
+a vision of loveliness
+
+def: the picture on a television or cinema screen
+
+We apologize for the loss of vision.
+
+---------------
 
